@@ -9,6 +9,8 @@ To run locally, make sure you have Python 3 and pipenv installed. Clone and navi
 	pipenv shell 
 
 After the first time, you only need to run ```pipenv shell``` to activate the environment, and ```exit``` to leave it. 
+  
+make sure you have jupyter notebook installed  
 
 Then run ```jupyter notebook``` to launch.
 
